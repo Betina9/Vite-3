@@ -18,5 +18,8 @@
     "@date-fns/tz": "^1.4.0",
     "date-fns": "^4.1.0"
   },
-  "homepage": "https://github.com/Betina9/Vite-3"
+  "homepage": "https://github.com/Betina9/Vite-3",
+  "vite": {
+    "base": "/Vite-3/"
+  }
 }

@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/Javascript-Advanced-Oppgave-4-Vite-Webpage2/",
+  base: "https://github.com/Betina9/Vite-3",
 });
