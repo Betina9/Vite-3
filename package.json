@@ -1,0 +1,22 @@
+{
+  "name": "create-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2",
+    "gh-pages": "^6.0.0"
+  },
+  "dependencies": {
+    "@date-fns/tz": "^1.4.0",
+    "date-fns": "^4.1.0"
+  },
+  "homepage": "https://betina9.github.io/Javascript-Advanced-Oppgave-4-Vite-Webpage2/"
+}
